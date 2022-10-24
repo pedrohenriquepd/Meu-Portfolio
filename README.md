@@ -1,5 +1,5 @@
 # Meu-Portfolio
-Feito com Vite + React
+Feito com Vite + React e Sass
 
 Demo: https://meuportfoliopedrohenrique.vercel.app/
 
